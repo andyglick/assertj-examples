@@ -3,6 +3,9 @@
 /.classpath
 /.project
 .DS_Store
-.idea
+.idea/
 /*.iml
+/*.ipr
+/*.iws
 .java-version
+
